@@ -11,7 +11,7 @@
   "author": "Ari Ardiansyah",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "googleapis": "^47.0.0"
   }
 }
